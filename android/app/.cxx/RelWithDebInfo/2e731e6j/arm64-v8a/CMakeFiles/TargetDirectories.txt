@@ -1,0 +1,2 @@
+C:/Users/johnr/OneDrive/Documents/Academe/BSCS-III/2nd Sem/Graphics/phone-scanner/phone_scanner_proj/android/app/.cxx/RelWithDebInfo/2e731e6j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/johnr/OneDrive/Documents/Academe/BSCS-III/2nd Sem/Graphics/phone-scanner/phone_scanner_proj/android/app/.cxx/RelWithDebInfo/2e731e6j/arm64-v8a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+C:/Users/johnr/OneDrive/Documents/Academe/BSCS-III/2nd Sem/Graphics/phone-scanner/phone_scanner_proj/android/app/.cxx/Debug/4d2h1m31/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/johnr/OneDrive/Documents/Academe/BSCS-III/2nd Sem/Graphics/phone-scanner/phone_scanner_proj/android/app/.cxx/Debug/4d2h1m31/armeabi-v7a/CMakeFiles/rebuild_cache.dir

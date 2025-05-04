@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="phone_scanner_proj"
+        android:label="ForageNet"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/forage_net_logo">
         <activity
-            android:name=".MainActivity"
+             android:name="com.example.phone_scanner_proj.MainActivity" 
             android:exported="true"
             android:launchMode="singleTop"
             android:taskAffinity=""
